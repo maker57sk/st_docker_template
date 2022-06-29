@@ -1,4 +1,4 @@
-# st_docker_template
+# streamlit docker template
 A template to start developing with streamlit &amp; docker
 
 
