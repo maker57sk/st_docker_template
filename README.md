@@ -1,17 +1,17 @@
-# streamlit_docker_template_app
+# st_docker_template
 A template to start developing with streamlit &amp; docker
 
 
 ## Step 1 
 clone the repo
 ```
-git clone https://github.com/maker57sk/streamlit_docker_template_app.git
+git clone https://github.com/maker57sk/st_docker_template.git
 ```
 
 ## step 2
 navigate to project folder
 ```
-cd streamlit_docker_template_app
+cd st_docker_template
 ```
 
 ## step 3
